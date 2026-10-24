@@ -1,0 +1,4 @@
+// scripts.js
+document.querySelector('.add-to-cart').addEventListener('click', function(event) {
+    alert('Produit ajouté au panier!');
+});
